@@ -4,53 +4,22 @@ My name is Junyang Lu, senior at UMass Amherst studying Computer Science and Mat
 
 <!-- SONG START -->
 <div align="center">
-  <div style="
-    background-color: #1a1a1a;
-    border-radius: 10px;
-    padding: 20px;
-    display: inline-block;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-    max-width: 350px;
-    margin: 0 auto;
-  ">
-    <div style="text-align: center; margin-bottom: 15px;">
+  <div>
+    <div>
       <a href="https://open.spotify.com/embed/track/02BcXEH1zJYbXSabPtNlKf">
-        <img src="https://i.scdn.co/image/ab67616d0000b273bed9c7b9e33025a81d4d02e4" 
-             width="200" 
-             style="border-radius: 8px; display: block; margin: 0 auto;">
+        <img src="https://i.scdn.co/image/ab67616d0000b273bed9c7b9e33025a81d4d02e4"
+            width="200">
       </a>
     </div>
-    <div style="text-align: center;">
-      <div style="
-        color: white; 
-        font-size: 20px; 
-        font-weight: bold;
-        margin-bottom: 5px;
-      ">
-        <strong> Lose My Mind (feat. Doja Cat) [From F1 The Movie] </strong>
+    <div>
+      <div>
+        <strong>Lose My Mind (feat. Doja Cat) [From F1 The Movie]</strong>
       </div>
-      <div style="
-        color: #b3b3b3; 
-        font-size: 16px;
-        margin-bottom: 15px;
-      ">
-        <br> Don Toliver, Doja Cat, F1 The Album </br>
+      <div>
+        Don Toliver, Doja Cat, F1 The Album
       </div>
-      <a href="https://open.spotify.com/embed/track/02BcXEH1zJYbXSabPtNlKf" 
-         style="
-           display: inline-block;
-           background-color: #1DB954;
-           color: white;
-           text-decoration: none;
-           padding: 10px 25px;
-           border-radius: 30px;
-           font-size: 16px;
-           font-weight: bold;
-           transition: background-color 0.2s;
-         "
-         onmouseover="this.style.backgroundColor='#1ed760'"
-         onmouseout="this.style.backgroundColor='#1DB954'">
-         &#9654 Play Now
+      <a href="https://open.spotify.com/embed/track/02BcXEH1zJYbXSabPtNlKf">
+         &#9654; Play Now
       </a>
     </div>
   </div>
