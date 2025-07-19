@@ -30,14 +30,14 @@ html = f"""
         font-weight: bold;
         margin-bottom: 5px;
       ">
-        {info["name"]}
+        <strong> {info["name"]} </strong>
       </div>
       <div style="
         color: #b3b3b3; 
         font-size: 16px;
         margin-bottom: 15px;
       ">
-        {info["artists"]}
+        <br> {info["artists"]} </br>
       </div>
       <a href="{info["embed_url"]}" 
          style="

@@ -1,7 +1,6 @@
 ## Overview
 My name is Junyang Lu, senior at UMass Amherst studying Computer Science and Mathematics. Currently, I am interning for Fidelity Investment and am part of the [Minutemen Alternative Investment Fund](https://www.minutemenalternativeinvestmentfund.com/) as a quant trader. I aspire to explore the possibilities into Quant and Machine Learning. Also check out my Devpost [here](https://devpost.com/Jun-L04).
 #### My Recent Spotify Obsession
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/02BcXEH1zJYbXSabPtNlKf" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <!-- SONG START -->
 <div align="center">
@@ -28,14 +27,14 @@ My name is Junyang Lu, senior at UMass Amherst studying Computer Science and Mat
         font-weight: bold;
         margin-bottom: 5px;
       ">
-        Lose My Mind (feat. Doja Cat) [From F1 The Movie]
+        <strong> Lose My Mind (feat. Doja Cat) [From F1 The Movie] </strong>
       </div>
       <div style="
         color: #b3b3b3; 
         font-size: 16px;
         margin-bottom: 15px;
       ">
-        Don Toliver, Doja Cat, F1 The Album
+        <br> Don Toliver, Doja Cat, F1 The Album </br>
       </div>
       <a href="https://open.spotify.com/embed/track/02BcXEH1zJYbXSabPtNlKf" 
          style="
