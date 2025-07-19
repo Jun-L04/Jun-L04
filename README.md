@@ -16,7 +16,7 @@ My name is Junyang Lu, senior at UMass Amherst studying Computer Science and Mat
     <div style="text-align: center; margin-bottom: 15px;">
       <a href="https://open.spotify.com/embed/track/02BcXEH1zJYbXSabPtNlKf">
         <img src="https://i.scdn.co/image/ab67616d0000b273bed9c7b9e33025a81d4d02e4" 
-             width="280" 
+             width="200" 
              style="border-radius: 8px; display: block; margin: 0 auto;">
       </a>
     </div>

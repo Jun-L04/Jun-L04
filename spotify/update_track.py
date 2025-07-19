@@ -19,7 +19,7 @@ html = f"""
     <div style="text-align: center; margin-bottom: 15px;">
       <a href="{info["embed_url"]}">
         <img src="{info["album_cover"]}" 
-             width="280" 
+             width="200" 
              style="border-radius: 8px; display: block; margin: 0 auto;">
       </a>
     </div>
